@@ -3,7 +3,7 @@ This toolbox was developped to
 
 (1) investigate the microstructure-induced frequency shift in white matter (WM) with crossing fibers using hollow cylinder fiber model (HCFM)
 
-(2) separate the microstructure-related frequency shift from the bulk susceptibility-induced frequency shift by model fitting the gradient-echo frequency evolution (TE-dependent frequency fitting)
+(2) separate the microstructure-related frequency shift from the bulk susceptibility-induced frequency shift by model fitting the gradient-echo frequency evolution (i.e.,TE-dependent frequency fitting)
 
 Refer to this paper:
 
