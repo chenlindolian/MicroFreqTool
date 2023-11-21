@@ -21,5 +21,5 @@ This toolbox has the following features:
      See SimulateSignal folder.
      See ShowSignalEvolutionExample.m for an example.
 
-(3)
+(3) Simulate full complex GRE signal inside brain with total frequency shift f_total=f_micro+f_macro
     
