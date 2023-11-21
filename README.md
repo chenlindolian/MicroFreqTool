@@ -15,7 +15,7 @@ This toolbox has the following features:
     
     See Build2FiberHCFM folder for generation of each model inside WM voxel. 
     
-    Intra-voxel field perturbations in the HCFM and the complex signal due to microstructure were simulated in qsub_SimulateHCFMSignalVoxelParallel_batch.m.
+    Intra-voxel field perturbations and the complex signal were simulated in qsub_SimulateHCFMSignalVoxelParallel_batch.m
 
 (2) Simulate the field perturbation and the corresponding complex       signal from 3D WM model.
      
