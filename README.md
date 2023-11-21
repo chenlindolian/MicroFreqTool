@@ -13,7 +13,9 @@ This toolbox has the following features:
 
 (1) Create 3D white models with HCFM with two fiber orientations.
     
-    See Build2FiberHCFM folder for generation of each model inside WM voxel. Intra-voxel field perturbations in the HCFM and the complex signal due to microstructure were simulated in qsub_SimulateHCFMSignalVoxelParallel_batch.m.
+    See Build2FiberHCFM folder for generation of each model inside WM voxel. 
+    
+    Intra-voxel field perturbations in the HCFM and the complex signal due to microstructure were simulated in qsub_SimulateHCFMSignalVoxelParallel_batch.m.
 
 (2) Simulate the field perturbation and the corresponding complex       signal from 3D WM model.
      
